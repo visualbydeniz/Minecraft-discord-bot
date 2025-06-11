@@ -7,7 +7,7 @@ client.commands = new Discord.Collection();
 
 client.once('ready', async () => {
   console.log(`Bot ${client.user.tag} is now online.`);
-  client.user.setActivity('www.xxxcraft.com', { type: 'PLAYING' });
+  client.user.setActivity('www.PixelCraft.com', { type: 'PLAYING' });
   await loadCommands();
 });
 
