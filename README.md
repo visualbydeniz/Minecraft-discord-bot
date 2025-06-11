@@ -1,6 +1,7 @@
 # Discord Utility Bot 
 
 > ⚠️ **Disclaimer**: Some placeholder names such as `PixelCraft` were used for illustrative purposes only and have no affiliation with any existing brand, company, or server.
+> > Note: Some internal filenames like `oylama.js` or `sürüm.js` retain their original Turkish names for legacy consistency. Their functions are fully localized in English.
 
 ## 🔧 Features
 
