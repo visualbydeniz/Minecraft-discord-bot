@@ -1,0 +1,50 @@
+# Discord Utility Bot 
+
+> ⚠️ **Disclaimer**: Some placeholder names such as `PixelCraft` were used for illustrative purposes only and have no affiliation with any existing brand, company, or server.
+
+## 🔧 Features
+
+- Modular command system  
+- Embedded message styling  
+- Minecraft server status commands  
+- Utility commands (ping, version info, etc.)  
+- Social & web info embeds  
+- Basic moderation commands (vote, message cleanup, etc.)  
+- Voice channel giveaway feature  
+
+## 🚀 Getting Started
+
+Make sure you have [Node.js](https://nodejs.org/) and `discord.js` installed.
+
+```bash
+npm install
+node index.js
+```
+
+### Configuration
+
+- Add your bot token to a `.env` file or directly into `index.js`  
+  *(Recommended: use `.env` for security purposes)*  
+- Place all command files inside the `commands/` directory  
+- Customize embeds, images, and links based on your own server
+
+## 📋 Example Commands
+
+- `!ip` → Shows the server IP  
+- `!version` → Shows supported Minecraft versions  
+- `!wiki` → Shows server wiki  
+- `!vote` → Vote link for the server  
+- `!clear <number>` → Clears messages (admin only)  
+- `!voicegiveaway <reward>` → Picks a random winner from voice chat  
+- `!report <message>` → Sends a complaint/report to admins  
+
+## 👤 Author
+
+This bot was developed by **Deniz Ağlar**, initially for a Minecraft project.  
+It has since been improved, translated, and adapted for use in English-speaking communities.  
+You can reach me via GitHub or check out other projects here.
+
+## 📄 License
+
+This project is licensed under the MIT License.  
+You are free to modify, use, and share it — attribution is appreciated but not required.
