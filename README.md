@@ -2,6 +2,9 @@
 
 > ⚠️ **Disclaimer**: Some placeholder names such as `PixelCraft` were used for illustrative purposes only and have no affiliation with any existing brand, company, or server.
 > > Note: Some internal filenames like `oylama.js` or `sürüm.js` retain their original Turkish names for legacy consistency. Their functions are fully localized in English.
+  
+**Note:** This project was originally created in 2022 when I was 15 years old, as one of my very first coding attempts (mainly self-taught and inspired by tutorials).  
+In 2025, I revisited the code, refactored it, translated everything into English, and published this improved version here on GitHub.
 
 ## 🔧 Features
 
