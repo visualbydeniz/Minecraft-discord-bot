@@ -4,14 +4,14 @@ module.exports = {
         
         const embed = new MessageEmbed()
             .setTitle(`> Vote for Our Server`) 
-            .addField(`** **`, `>  [__Click here__](https://minecraft-mp.com/server/312547/vote/)`) 
+            .addField(`** **`, `>  [__Click here__](https://your-minecraft-vote-page)`) 
             
 
             .setColor('YELLOW')
-            .setThumbnail(`https://cdn.discordapp.com/attachments/1083829077774966787/1085197496617283604/blokolikkkk.png`)
+            .setThumbnail(``)
       
 
-            .setImage(`https://cdn.discordapp.com/attachments/860830300560293911/1085613102751567912/blokolik22.png`)
+            .setImage(``)
 
 
             .setTimestamp()
