@@ -11,9 +11,9 @@ module.exports = {
             .addField(`**→ !vote**`, `> *Shows the voting page to support the server.*`)
             .addField(`**→ !socialmedia**`, `> *Lists the server’s social media platforms.*`)
             .setColor('YELLOW')
-            .setThumbnail(`https://cdn.discordapp.com/attachments/1083829077774966787/1085197496617283604/blokolikkkk.png`)
+            .setThumbnail(``)
             // // You can update this with a custom  thumbnail
-            .setImage(`https://cdn.discordapp.com/attachments/860830300560293911/1085613102751567912/blokolik22.png`)
+            .setImage(``)
             // // Consider replacing with a banner containing your branding
             .setTimestamp()
             .setFooter('Bot', client.user.avatarURL()) 
