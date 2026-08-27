@@ -3,7 +3,7 @@ const Discord = require('discord.js')
 exports.run = (client, message, args) => {
    
     // Check if the user has the required role to execute this command
-    if(!message.member.roles.cache.has("860830373708824576")) { 
+    if(!message.member.roles.cache.has("roleid"))  { 
         const embed = new Discord.MessageEmbed()
         .setDescription(`You don't have permission to use this command!`) // // Türkçesi: Bu komutu kullanmak için gerekli izne sahip değilsin!
         .setColor('RED')
