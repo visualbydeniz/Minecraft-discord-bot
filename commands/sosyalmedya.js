@@ -13,8 +13,8 @@ module.exports = {
 
             // // Optional: You can use your own custom logo and banner image here
             .setColor('YELLOW')
-            .setThumbnail(`https://cdn.discordapp.com/attachments/1083829077774966787/1085197496617283604/blokolikkkk.png`) // // Replace with your logo URL
-            .setImage(`https://cdn.discordapp.com/attachments/860830300560293911/1085613102751567912/blokolik22.png`) // // Replace with a banner or showcase image
+            .setThumbnail(``) // // Replace with your logo URL
+            .setImage(``) // // Replace with a banner or showcase image
 
             .setTimestamp()
             .setFooter('PixelCraft Bot', client.user.avatarURL()) // // Name of your bot shown in footer
