@@ -16,14 +16,15 @@ In 2025, I revisited the code, refactored it, translated everything into English
 - Basic moderation commands (vote, message cleanup, etc.)  
 - Voice channel giveaway feature  
 
-## 🚀 Getting Started
+ ## 🚀 Getting Started
 
-Make sure you have [Node.js](https://nodejs.org/) and `discord.js` installed.
-
-```bash
-npm install
-node index.js
-```
+1. Clone the repository
+2. Install dependencies:
+   npm install
+3. Create a `.env` file in the root directory and add your bot token:
+   TOKEN=your_discord_bot_token_here
+4. Start the bot:
+   node index.js
 
 ### Configuration
 
