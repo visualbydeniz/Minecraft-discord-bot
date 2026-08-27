@@ -12,7 +12,7 @@ exports.run = async (client, message, args) => {
     .setColor("YELLOW")
     .setTimestamp()
     .setFooter("PixelCraft", client.user.avatarURL()) // // Bot name or project footer
-    .addField("» **Bot Owner**", "<@1083839890388684820>") // // Replace with your Discord ID if needed
+    .addField("» **Bot Owner**", "<@discordid>") // // Replace with your Discord ID if needed
 
     // // Ping info: latency and API delay
     .addField(
